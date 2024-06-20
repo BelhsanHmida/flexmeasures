@@ -17,6 +17,9 @@ This includes the possibility to specify which sensors the asset page should sho
     :align: center
 ..    :scale: 40%
 
+.. image:: https://github.com/FlexMeasures/screenshots/raw/main/screenshot_building_status.png
+    :align: center
+..    :scale: 40%
 |
 |
 
