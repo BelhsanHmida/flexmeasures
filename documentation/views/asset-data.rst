@@ -24,7 +24,7 @@ For each asset, you can also visit a status page to see if your data connectivit
 
 .. image:: https://github.com/FlexMeasures/screenshots/blob/main/tut/toy-schedule/screenshot_building_status.png
     :align: center
-..    :scale: 1%
+..    :scale: 40%
 
 |
 |
